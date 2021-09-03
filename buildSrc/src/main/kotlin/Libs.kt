@@ -81,7 +81,7 @@ object Libs {
   const val ktor_client_core = "io.ktor:ktor-client-core:_"
   const val ktor_client_cio = "io.ktor:ktor-client-cio:_"
   const val ktor_client_android = "io.ktor:ktor-client-android:_"
-  const val ktor_serialization = "io.ktor:ktor-serialization:_"
+  const val ktor_serialization = "io.ktor:ktor-client-serialization:_"
 
   const val kotlin_coroutine_bom = "org.jetbrains.kotlinx:kotlinx-coroutines-bom:_"
   const val kotlin_coroutine_core = "org.jetbrains.kotlinx:kotlinx-coroutines-core"
