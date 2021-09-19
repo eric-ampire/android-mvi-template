@@ -1,4 +1,4 @@
-<h1 align="center">Android Study Case</h1></br>
+<h1 align="center">Android MVI Template</h1></br>
 <p align="center">  
 A demo Android Study Case app using compose and Hilt based on modern Android tech-stacks and MVI architecture. Fetching data from the network and integrating persisted data in the database via repository pattern using compose.
 </p>
